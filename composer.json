@@ -1,5 +1,5 @@
 {
-  	"name": "reportportal/phpunit",
+  	"name": "mkabzar/phpunit",
 	"type" : "library",
 	"description" : "Basic classes for Report Portal collaboration with PHPUnit",
 	"keywords" : [
